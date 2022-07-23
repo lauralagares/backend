@@ -1,4 +1,3 @@
-import { ObjectId } from "mongodb";
 
 const DATABASE_NAME = 'Laurify';
 const COLLECTION_NAME = 'Favorites';
